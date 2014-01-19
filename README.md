@@ -1,11 +1,11 @@
-little-schemer-in-clojure
+Little Schemer in Clojure
 =========================
 
 Working through each chapter of little schemer in clojure.  NB - I've never worked with Clojure or Scheme or any other LISP variant.
 
-Notes:
+##Notes:
 
-Chapter 1
+###Chapter 1
 - atoms in clojure are definitely not the same as a scheme atom!
 - car is first in clojure and returns the first element of a sequence.
 - cdr is rest in clojure and returns a sequence minus the first element.
